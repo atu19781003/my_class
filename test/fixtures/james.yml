@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  bir: 2014-07-27 01:59:26
+
+two:
+  name: MyText
+  bir: 2014-07-27 01:59:26
